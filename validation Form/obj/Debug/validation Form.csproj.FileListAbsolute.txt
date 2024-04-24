@@ -1,0 +1,59 @@
+D:\C# learning\validation ASP.NET\validation Form\bin\validation Form.dll.config
+D:\C# learning\validation ASP.NET\validation Form\bin\validation Form.dll
+D:\C# learning\validation ASP.NET\validation Form\bin\validation Form.pdb
+D:\C# learning\validation ASP.NET\validation Form\bin\roslyn\csc.exe
+D:\C# learning\validation ASP.NET\validation Form\bin\roslyn\csc.exe.config
+D:\C# learning\validation ASP.NET\validation Form\bin\roslyn\csc.rsp
+D:\C# learning\validation ASP.NET\validation Form\bin\roslyn\csi.exe
+D:\C# learning\validation ASP.NET\validation Form\bin\roslyn\csi.exe.config
+D:\C# learning\validation ASP.NET\validation Form\bin\roslyn\csi.rsp
+D:\C# learning\validation ASP.NET\validation Form\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\C# learning\validation ASP.NET\validation Form\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\C# learning\validation ASP.NET\validation Form\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\C# learning\validation ASP.NET\validation Form\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\C# learning\validation ASP.NET\validation Form\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\C# learning\validation ASP.NET\validation Form\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\C# learning\validation ASP.NET\validation Form\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\C# learning\validation ASP.NET\validation Form\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\C# learning\validation ASP.NET\validation Form\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\C# learning\validation ASP.NET\validation Form\bin\roslyn\Microsoft.Managed.Core.targets
+D:\C# learning\validation ASP.NET\validation Form\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\C# learning\validation ASP.NET\validation Form\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\C# learning\validation ASP.NET\validation Form\bin\roslyn\System.AppContext.dll
+D:\C# learning\validation ASP.NET\validation Form\bin\roslyn\System.Collections.Immutable.dll
+D:\C# learning\validation ASP.NET\validation Form\bin\roslyn\System.Console.dll
+D:\C# learning\validation ASP.NET\validation Form\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\C# learning\validation ASP.NET\validation Form\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\C# learning\validation ASP.NET\validation Form\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\C# learning\validation ASP.NET\validation Form\bin\roslyn\System.Globalization.Calendars.dll
+D:\C# learning\validation ASP.NET\validation Form\bin\roslyn\System.IO.Compression.dll
+D:\C# learning\validation ASP.NET\validation Form\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\C# learning\validation ASP.NET\validation Form\bin\roslyn\System.IO.FileSystem.dll
+D:\C# learning\validation ASP.NET\validation Form\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\C# learning\validation ASP.NET\validation Form\bin\roslyn\System.Net.Http.dll
+D:\C# learning\validation ASP.NET\validation Form\bin\roslyn\System.Net.Sockets.dll
+D:\C# learning\validation ASP.NET\validation Form\bin\roslyn\System.Reflection.Metadata.dll
+D:\C# learning\validation ASP.NET\validation Form\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\C# learning\validation ASP.NET\validation Form\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\C# learning\validation ASP.NET\validation Form\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\C# learning\validation ASP.NET\validation Form\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\C# learning\validation ASP.NET\validation Form\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\C# learning\validation ASP.NET\validation Form\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\C# learning\validation ASP.NET\validation Form\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\C# learning\validation ASP.NET\validation Form\bin\roslyn\System.ValueTuple.dll
+D:\C# learning\validation ASP.NET\validation Form\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\C# learning\validation ASP.NET\validation Form\bin\roslyn\System.Xml.XmlDocument.dll
+D:\C# learning\validation ASP.NET\validation Form\bin\roslyn\System.Xml.XPath.dll
+D:\C# learning\validation ASP.NET\validation Form\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\C# learning\validation ASP.NET\validation Form\bin\roslyn\vbc.exe
+D:\C# learning\validation ASP.NET\validation Form\bin\roslyn\vbc.exe.config
+D:\C# learning\validation ASP.NET\validation Form\bin\roslyn\vbc.rsp
+D:\C# learning\validation ASP.NET\validation Form\bin\roslyn\VBCSCompiler.exe
+D:\C# learning\validation ASP.NET\validation Form\bin\roslyn\VBCSCompiler.exe.config
+D:\C# learning\validation ASP.NET\validation Form\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\C# learning\validation ASP.NET\validation Form\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\C# learning\validation ASP.NET\validation Form\obj\Debug\validation Form.csproj.AssemblyReference.cache
+D:\C# learning\validation ASP.NET\validation Form\obj\Debug\validation Form.csproj.CoreCompileInputs.cache
+D:\C# learning\validation ASP.NET\validation Form\obj\Debug\validation Form.csproj.CopyComplete
+D:\C# learning\validation ASP.NET\validation Form\obj\Debug\validation Form.dll
+D:\C# learning\validation ASP.NET\validation Form\obj\Debug\validation Form.pdb
