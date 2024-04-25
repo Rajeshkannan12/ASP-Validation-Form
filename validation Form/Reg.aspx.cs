@@ -25,7 +25,7 @@ namespace validation_Form
             string addresss = address.Value;
             string Phone = txtPhone.Value;
             string Email = txtEmail.Value;
-            string Username1= Username.Value ;
+            string Username1= Username.Value;
             string Password = Password1.Value;
 
             SqlConnection con = new SqlConnection("Data Source=DESKTOP-ACOBI7I\\SQLEXPRESS2;Initial Catalog=userreg;Integrated Security=True");
